@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大日經略攝念誦隨行法
+#+DATE: 2015-08-30 20:23:45.755240
+#+PROPERTY: JUAN 0
